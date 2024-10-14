@@ -1,15 +1,5 @@
 Twitter Sentiment Analysis This project performs Sentiment Analysis on tweets, classifying them as positive, negative, or neutral using Natural Language Processing (NLP) techniques. It uses the Twitter API to collect data and applies machine learning models for text classification.
 
-Table of Contents
-Introduction
-Features
-Technologies
-Setup
-Usage
-Project Workflow
-Results
-Improvements
-License
 Introduction
 The goal of this project is to analyze the sentiment of tweets by classifying them based on their content. We use NLP techniques for text preprocessing and machine learning models to classify the tweets into three categories:
 
